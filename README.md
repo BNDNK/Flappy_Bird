@@ -32,6 +32,11 @@ gameLoop(): The main game loop responsible for rendering and updating the game c
 Customization
 Feel free to customize the game by tweaking parameters such as bird speed, pipe gap, and pipe speed in the code.
 
+
+## Screenshots
+<img width="1436" alt="Screenshot 2024-02-17 at 10 02 35 AM" src="https://github.com/BNDNK/Flappy_Bird/assets/112815598/d0eba105-f7c3-46cf-9ef5-3f92f156a24a">
+
+
 ## Credits
 [BNDNK] There was no tutor.
 
