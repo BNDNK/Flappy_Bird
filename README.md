@@ -15,10 +15,7 @@ Every time the bird successfully passes through a set of pipes, your score incre
 Getting Started
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/flappy-bird.git
-Open index.html in your web browser.
+
 
 ## Code Details
 The game logic is implemented in JavaScript, with HTML for the layout and Canvas for rendering.
